@@ -4,4 +4,5 @@ project(hello_c)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(hello_c
-        main.c)
+        luogu/p5015.c
+)
